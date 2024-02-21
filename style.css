@@ -34,7 +34,7 @@ header {
   height: 100vh;
 }
 .img-jumbotrom {
-  background-image: url(/ny.jpg);
+  background-image: url(img/ny.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -271,7 +271,7 @@ header {
   opacity: 0.2;
 }
 .img5{
-  background-image: url(/map.jpg);
+  background-image: url(img/map.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
